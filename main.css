@@ -1,0 +1,128 @@
+.header-one {
+
+    color: #ff4ebb;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    padding: 10px;
+    border: 8px dotted white;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "Lobster", "consolas", sans-serif;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: block;
+    margin-right: auto;
+  }
+
+video {
+    position: absolute;
+    top: 450px;
+    right: 50px;
+
+        border: 20px solid #ff4ebb;
+        border-radius: 10px;
+        padding: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        background: white ;
+
+}
+
+.body-one {
+    background-image: url(sparkles.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    text-align: center;
+}
+
+.body-two {
+    background-image: url(rosie.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    text-align: center;
+}
+
+audio {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    padding: 10px;
+    border: 3px dashed #ff02b3;
+    border-radius: 20px;
+    background: white;
+
+}
+
+.youtiful {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 20px;
+  
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 60vh;
+      padding: 10px;
+      border: 3px dashed #ff02b3;
+      border-radius: 20px;
+      background: white;
+  
+}
+
+.header-three {
+    color: #ff02b3;
+    font-family: "Lilita One", sans-serif;
+    font-size: 60px;
+    font-weight: 100;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    padding: 10px;
+    border: 3px dotted #ff02b3;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+
+    display:inline;
+}
+
+h3 {
+    color: #b3007d;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h5 {
+    color: #b3007d;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
